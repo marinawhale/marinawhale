@@ -24,3 +24,4 @@
   
 </div>
 
+![Snake animation](https://github.com/marinawhale/marinawhale/blob/output/github-contribution-grid-snake.svg)
